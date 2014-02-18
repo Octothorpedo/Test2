@@ -51,10 +51,4 @@ test:
   username: crystal
   password:
 
-production:
-  adapter: postgresql
-  encoding: unicode
-  database: test2_production
-  pool: 5
-  username: test2
-  password:
+
