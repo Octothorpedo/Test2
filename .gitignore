@@ -17,4 +17,3 @@
 
 # Ignore config files
 /config/database.yml
-/config/application.rb
